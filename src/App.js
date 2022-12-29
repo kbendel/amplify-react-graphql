@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={Shakopee_Old_Map} className="App-logo" alt="logo" />
-        <h1>Hello from V2</h1>
+        <marquee><h1>Hello from Savage, MN!</h1></marquee>
       </header>
     </div>
   );
