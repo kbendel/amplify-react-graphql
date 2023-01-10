@@ -8,8 +8,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Tic Tac Toe</h1>
-        <Game/>
       </header>
+      <div class="col-12">
+                      <Game/>
+      </div>
     </div>
   );
 }
