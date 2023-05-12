@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Tic Tac Toe</h1>
+        <h1>Tic Tac Toe 3 in a row</h1>
       </header>
       <div class="col-12">
                       <Game/>
